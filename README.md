@@ -10,12 +10,12 @@ compiler changes or plugins.
 2. execute the ~re-start command once the project is loaded
 
 URL's that are currently registered in the example applications:
-  Graffiti:
-    http://localhost:8080/graff/rpc
-    http://localhost:8080/graff/ws (Note: re-opening a WebSocket after a certain period of inactivity, has not yet been implemented.)
 
-  Shoppinglist:
-    http://localhost:8080/shopping
+- Graffiti:
+  - http://localhost:8080/graff/rpc
+  - http://localhost:8080/graff/ws (Note: re-opening a WebSocket after a certain period of inactivity, has not yet been implemented.)
+- Shoppinglist:
+  - http://localhost:8080/shopping
 
 ## Structure
 
